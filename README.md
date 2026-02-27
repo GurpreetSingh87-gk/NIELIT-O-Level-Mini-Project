@@ -143,9 +143,8 @@ pip install web-browser
 
 ## Output Screenshot
 
-<p align="center">
-  <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/88f37048-33f5-4f49-939e-0bd80b099ac6"/>
-</p>
+<img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/88f37048-33f5-4f49-939e-0bd80b099ac6"/>
+
 
 
 
