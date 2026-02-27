@@ -56,17 +56,21 @@ To make the graphical user interface more attractive, an image has been attached
 
 ## Technologies Used
 
+<p align="justify">
+  
 ### Programming Language Used:
 
 **Python**
 
-Python is high-level, interpreted programming language known for its simplicity and readability. It is widely used for application development, automation, and GUI-based software development. In this project, Python is used to develop Sign In Form and implement authentication logic.
+Python is high-level, interpreted programming language known for its simplicity and readability. It is widely used for application development, automation, and GUI-based software development. In this project, Python is used to develop Sign In Form and implement authentication logic.</p>
 
 ### Libraries and Modules Used:
 
+<p align="justify">
+  
 **CustomTkinter**
 
-CustomTkinter is a modern and customizable Python UI library based on the standard Tkinter library. It provides a set of updated widgets that allow developers to create visually appealing, professional-looking, and consistent graphical user interfaces (GUIs) across different desktop platforms (Windows, macOS, Linux). It is used in this project to design a visually attractive and responsive Sing in interface. 
+CustomTkinter is a modern and customizable Python UI library based on the standard Tkinter library. It provides a set of updated widgets that allow developers to create visually appealing, professional-looking, and consistent graphical user interfaces (GUIs) across different desktop platforms (Windows, macOS, Linux). It is used in this project to design a visually attractive and responsive Sing in interface.</p>
 
 **Install Instructions:**
  
@@ -76,15 +80,19 @@ pip install customtkinter
 
 <br>
 
+<p align="justify">
+  
 **CTkImage (from CustomTkinter)**
 
-CTkImage in Python’s CustomTkinter library, is a utility class designed to handle and display images in a way that allows for proper scaling on High- DPI displays and support different images for light and dark appearance modes. It helps in adding icons and background images to enhance the user interface. 
+CTkImage in Python’s CustomTkinter library, is a utility class designed to handle and display images in a way that allows for proper scaling on High- DPI displays and support different images for light and dark appearance modes. It helps in adding icons and background images to enhance the user interface.</p> 
 
 <br>
 
+<p align="justify">
+  
 **PIL (Python Imaging Library)**
 
-The PIL is an open-source library that adds image processing capabilities to the python interpreter. The original PIL project is no longer actively developed, and its modern actively maintained successor is know as Pillow. When working with image processing in python today, you need to install pillow package.
+The PIL is an open-source library that adds image processing capabilities to the python interpreter. The original PIL project is no longer actively developed, and its modern actively maintained successor is know as Pillow. When working with image processing in python today, you need to install pillow package.</p>
 
 **Install Instructions:**
 
@@ -94,9 +102,11 @@ pip install pillow
 
 <br>
 
+<p align="justify">
+  
 **Tkinter Messagebox**
 
-In Python, a messagebox is a modal dialog box used in graphical user interface (GUI) application to display short messages, notifications, warnings, error, or to ask the user a simple question for confirmation. Its most commonly implemented using the Tkinter’s messagebox module, which is part of python’s standard tkinter library for GUI development.
+In Python, a messagebox is a modal dialog box used in graphical user interface (GUI) application to display short messages, notifications, warnings, error, or to ask the user a simple question for confirmation. Its most commonly implemented using the Tkinter’s messagebox module, which is part of python’s standard tkinter library for GUI development.</p>
 
 **Install Instructions:**
 
@@ -106,10 +116,12 @@ pip install  messagebox
 
 <br>
 
+<p align="justify">
+  
 **Webbrowser Module**
 
 Webbrowser module is used to open external links such as social media pages or websites directly from the applications.
-It works across different operating systems (Windows, macOS, Linux) by using the default browser configured on each system. 
+It works across different operating systems (Windows, macOS, Linux) by using the default browser configured on each system.</p>
 
 **Install Instructions:**
 
